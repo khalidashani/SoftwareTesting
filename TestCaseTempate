@@ -1,0 +1,15 @@
+ID: #Test ID can be in different format depending on the project
+Title: #Title of the testing 
+Description: #A brief summary of the testing
+Condition: #Enviroment of the test (platform, data, parameter)
+
+Step to reproduce:
+  1.
+  2.
+  3.
+
+Expected result:
+Actual Result:
+
+References:
+# Image(s), Video(s), Link(s)
