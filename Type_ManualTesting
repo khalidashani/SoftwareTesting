@@ -1,0 +1,35 @@
+# Black Box Testing
+A software testing technique where the internal structure or code is not known to the tester. It focuses on testing the functionality based on inputs and expected outputs.
+
+# White Box Testing
+A software testing technique where the internal code, structure, and logic are tested. It is performed by developers or testers with programming knowledge.
+
+# Gray Box Testing
+A combination of Black Box and White Box Testing, where the tester has partial knowledge of the internal system while testing its functionality.
+
+# Acceptance Testing
+A type of testing conducted to determine if a system meets business requirements. It is usually the final phase before deployment and can include User Acceptance Testing (UAT).
+
+# System Testing
+A high-level testing process that evaluates the complete system to ensure it meets the specified requirements. It includes functional and non-functional testing.
+
+# Integration Testing
+A testing phase where multiple components or systems are combined and tested together to ensure they work correctly as a whole.
+
+# Unit Testing
+A low-level testing method where individual components or functions of a software application are tested in isolation, typically by developers.
+
+# Sanity Testing
+A quick, focused testing process to check whether recent changes or bug fixes have not negatively impacted existing functionality.
+
+# Smoke Testing
+A preliminary test to verify that the critical functionalities of the application are working. It helps determine if the build is stable enough for further testing
+
+# Regression Testing
+A testing process performed after changes (such as bug fixes or feature updates) to ensure existing functionalities still work as expected.
+
+# User Interface (UI) Testing
+A testing technique that evaluates the graphical user interface (GUI) of an application to ensure it meets design specifications and user experience expectations.
+
+# Exploratory Testing
+A hands-on testing approach where testers actively explore the application without predefined test cases, relying on experience and intuition to find defects.
