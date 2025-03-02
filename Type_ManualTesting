@@ -1,35 +1,47 @@
-# Black Box Testing
-A software testing technique where the internal structure or code is not known to the tester. It focuses on testing the functionality based on inputs and expected outputs.
+Type: Black Box Testing
+Definition: A software testing technique where the internal structure or code is not known to the tester. It focuses on testing the functionality based on inputs and expected outputs.
+Example: A tester checks an online shopping website by adding items to the cart and completing checkout without knowing the backend code.
 
-# White Box Testing
-A software testing technique where the internal code, structure, and logic are tested. It is performed by developers or testers with programming knowledge.
+Type: White Box Testing
+Definition: A software testing technique where the internal code, structure, and logic are tested. It is performed by developers or testers with programming knowledge.
+Example: A developer tests a function in the code that calculates discounts, verifying how conditions and loops execute correctly.
 
-# Gray Box Testing
-A combination of Black Box and White Box Testing, where the tester has partial knowledge of the internal system while testing its functionality.
+Type: Gray Box Testing
+Definition: A combination of Black Box and White Box Testing, where the tester has partial knowledge of the internal system while testing its functionality.
+Example: A tester logs into an application and uses SQL queries to verify that the correct data is stored in the database while performing functional testing on the front end.
 
-# Acceptance Testing
-A type of testing conducted to determine if a system meets business requirements. It is usually the final phase before deployment and can include User Acceptance Testing (UAT).
+Type: Acceptance Testing
+Definition: A type of testing conducted to determine if a system meets business requirements. It is usually the final phase before deployment and can include User Acceptance Testing (UAT).
+Example: A client tests a newly developed HR management system by adding employees, approving leaves, and generating reports to ensure it meets business needs before final approval.
 
-# System Testing
-A high-level testing process that evaluates the complete system to ensure it meets the specified requirements. It includes functional and non-functional testing.
+Type: System Testing
+Definition: A high-level testing process that evaluates the complete system to ensure it meets the specified requirements. It includes functional and non-functional testing.
+Example: Example: Testing a banking application where users transfer funds, check balances, and generate statements to ensure the entire system works as intended.
 
-# Integration Testing
-A testing phase where multiple components or systems are combined and tested together to ensure they work correctly as a whole.
+Type: Integration Testing
+Definition: A testing phase where multiple components or systems are combined and tested together to ensure they work correctly as a whole.
+Example: hecking whether a payment gateway (PayPal, Stripe) integrates correctly with an e-commerce platform to ensure successful transactions.
 
-# Unit Testing
-A low-level testing method where individual components or functions of a software application are tested in isolation, typically by developers.
+Type: Unit Testing
+Definition: A low-level testing method where individual components or functions of a software application are tested in isolation, typically by developers.
+Example: A developer writes test cases to check if a login function correctly validates usernames and passwords before allowing access.
 
-# Sanity Testing
-A quick, focused testing process to check whether recent changes or bug fixes have not negatively impacted existing functionality.
+Type: Sanity Testing
+Definition: A quick, focused testing process to check whether recent changes or bug fixes have not negatively impacted existing functionality.
+Example: After fixing a login issue, the tester quickly verifies that the login feature works and that the dashboard loads correctly without performing detailed tests.
 
-# Smoke Testing
-A preliminary test to verify that the critical functionalities of the application are working. It helps determine if the build is stable enough for further testing
+Type: Smoke Testing
+Definition: A preliminary test to verify that the critical functionalities of the application are working. It helps determine if the build is stable enough for further testing
+Example: After a new software build, the tester checks whether essential features like login, navigation, and basic functionality are working before deeper testing.
 
-# Regression Testing
-A testing process performed after changes (such as bug fixes or feature updates) to ensure existing functionalities still work as expected.
+Type: Regression Testing
+Definition: A testing process performed after changes (such as bug fixes or feature updates) to ensure existing functionalities still work as expected.
+Example: A tester verifies that a new update to the profile section doesn’t break existing features like password reset or email notifications
 
-# User Interface (UI) Testing
-A testing technique that evaluates the graphical user interface (GUI) of an application to ensure it meets design specifications and user experience expectations.
+Type: User Interface (UI) Testing
+Definition: A testing technique that evaluates the graphical user interface (GUI) of an application to ensure it meets design specifications and user experience expectations.
+Example: Checking whether all buttons on a mobile banking app are aligned properly, color themes are consistent, and navigation flows smoothly.
 
-# Exploratory Testing
-A hands-on testing approach where testers actively explore the application without predefined test cases, relying on experience and intuition to find defects.
+Type: Exploratory Testing
+Definition: A hands-on testing approach where testers actively explore the application without predefined test cases, relying on experience and intuition to find defects.
+Example: A tester randomly navigates through an online booking system, trying different input combinations and unexpected actions to uncover hidden bugs.
